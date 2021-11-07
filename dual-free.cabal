@@ -25,6 +25,8 @@ source-repository head
 
 library
   exposed-modules:
+      Control.Comonad.DualCofree
+      Control.Monad.DualFree
       Lib
   other-modules:
       Paths_dual_free
